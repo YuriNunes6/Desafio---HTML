@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    line-height: 1.4;
+    margin: 30px;
+}
+
+#cabecalho {
+    text-align: center;
+}
+
+#imagemLogo {
+    width: 250px;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: red;
+}
+
+#Sobre {
+    text-align: center;
+    color: red;
+    margin: 20px;
+}
+
+#Produtos {
+    text-align: center;
+    color: red;
+}
+
+ol {
+    list-style: none;
+}
+
+ol li a {
+    text-align: center;
+    text-decoration: none;
+    color: red;
+}
+
+#Feminino {
+    color: red;
+}
+
+#Masculino {
+    color: red;
+}
+
+#Contato {
+    color: red;
+    text-align: center;
+}
+
+#Feedback {
+    color: red;
+    text-align: center;
+}
+
+#HorarioDeAtendimento {
+    color: red;
+    text-align: center;
+}
+
+#Tabela {
+    color: white;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#Mensagem {}
+
+#Login {}
+
+.txtCadastro {
+    text-align: left;
+    margin-bottom: 10px;
+    color: red;
+}
+
+input {
+    width: 245px;
+    height: 25px;
+    padding-left: 5px;
+}
+
+.enviarCadastro {
+    width: 100px;
+    height: 25px;
+}
+
+#rodape {
+    text-align: center;
+    margin-top: 30px;
+    color: red;
+}
+
+img {
+    margin-right: 20px;
+}
+
+#mensagemUsuario h2 {
+    color: red;
+    margin-bottom: 10px;
+}
+
+.mensagemInput {
+    width: 270px;
+    height: 25px;
+}
+
+textarea {
+    padding-left: 5px;
+}
+
+#menuNavegacao {
+    margin-bottom: 15px;
+}
